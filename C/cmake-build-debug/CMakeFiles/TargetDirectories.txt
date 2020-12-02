@@ -1,3 +1,0 @@
-C:/Alnya/GitHub/PBL_Hard/C/cmake-build-debug/CMakeFiles/C.dir
-C:/Alnya/GitHub/PBL_Hard/C/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Alnya/GitHub/PBL_Hard/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
