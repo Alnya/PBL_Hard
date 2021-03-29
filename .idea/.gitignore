@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Alnya\GitHub\PBL_Hard\C\.idea/dataSources/
+/../../../../../:\Alnya\GitHub\PBL_Hard\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
